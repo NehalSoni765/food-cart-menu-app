@@ -6,7 +6,7 @@ The Food Cart Menu App is a web-based application built with React that allows u
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/NehalSoni765/note-app)
+- [GitHub Repository](https://github.com/NehalSoni765/food-cart-menu-app)
 - [Live Demo](https://foodcartmenu.netlify.app)
 
 ## Pages
